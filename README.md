@@ -1,5 +1,6 @@
 # Introduction
 
+
 This is a sample e-commerce application built for learning purposes.
 
 Tech stack: Apache, PHP, Mysql 
